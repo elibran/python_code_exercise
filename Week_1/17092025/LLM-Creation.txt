@@ -1,0 +1,137 @@
+##############fOR aRTICLE##########################
+Can you create a detailed step by step article for the below contex given?
+Please note you only take idea from the context but creat very unique factful article by own 
+1. Include most of the design diagram , system design and architecture, block diagram
+2. Sequence diagram, flow chart, App state flow diagram etc using mermaid
+3. Include the component block diagram 
+3. Include as must as technical break down is possible
+4. Put no place holder what so every
+5. Breakdown must be for the developer or architect who wants to do hands on by following the article
+6. Cover the all stages of MVP with clarity and simlicity.
+7. Follow the best practices as much as possible
+8. If Article required to discuss deployment on cloud infra then my obvious choice is AWS
+
+"""
+
+"""
+##############fOR aRTICLE##########################
+Please follow this instruction in all the discussion during the session.
+1. Always use the tone which is human centric, the human usually writing or speaking os sharing.
+2. Avoid Jargon and robotic words in your response.
+3. Always respond in the tone just like humna responding to other human.
+4. Always follow these instruction in your upcoming response
+
+#####################################################
+Suppose you want to create a well structured learning course fOR
+langchain framework for beginner to expert level audiance
+start with beginner level topics but goto veru very advance level topic
+
+create complete course strucrtre so thet I can use that structure 
+in my course. Please use tone as human instructore with engagiing tone 
+
+If you have any clarification question , you can ask before responding
+
+
+
+
+
+##############fOR aRTICLE##########################
+
+Act as an expert Article on substack
+Understand the Passed context message and create an appealing 
+substack article with SEO Friendly Title and sub title along with
+article well writtent introduction with human feeling and soft and professional
+tone with high grade summary of article for generating interest in reading the
+article
+
+Here are some more instruction for you to consider:
+Use mermaid to give visual digrams to improve the overall article quality
+To maximize the viral potential 
+of your articles, make sure 
+they are well-written, engaging, 
+and visually appealing. 
+Use strong headlines, 
+compelling storytelling, 
+and relevant images and videos. 
+Add relevant SEO tags for making article more searchable 
+by medium recommendation engine 
+
+Here are context 
+"""
+
+
+"""
+
+
+
+
+##################################
+
+Act as an expert reviewer
+Please review the Article thoroughly for the following points, but not limited to the list in Article,
+you can suggest addition or removal of section as per your review. Please note that our goal is to make article complete anmd correct
+for the audiance who is reading it and after reading article they always feel confident in the topic along with he also gets 
+view of high standard of author and as result hooked up with all the articles written by author. 
+Now let me list few points 
+below is the key chriteria to provide the feedback
+1. Correctness of Article content. Also, suggest if any better approach exist
+2. Completeness, does article is self sufficient on topic so that reader can completely understand the article without any further content search
+3. Does Article is sufficiently backed with design and digram for better visual understanding to the reader?
+4. Does Artcle quality is enough to retain reader commitment to stick with Author other article ?
+5. Please check the correstness and feasibility also? If possible run the approach on your own and verify the concept presentated in article
+6. Overall review brutally to the point at the highest senity level . don't consider ant hting which is not factual proven
+Here is the content for your Review and Feedback
+"""
+
+"""
+
+
+####################Request for consider the improvement
+I reviewed your generated content and here is my review feedback on your article for improvement.
+I want you to improve this because it seems necessiry. But you must do the self review also after the modification, because logical
+flow and content factual accuracy must be maintained.
+I want list of all the improvement integerated in this response and also improvement which is not taken with reason
+"""
+
+"""
+Can you integerate into the below article
+""""
+
+""""
+
+and share me the final Article?
+
+
+"Thank you for your positive feedback. You may also find our collection of more complex, advanced coding interview problems, presented in a story format, beneficial to explore at your convenience."
+
+
+
+
+########################
+###For Making Structure of Article on the topic title
+
+Think through the title
+"""
+Announcing: Agentic Document Extraction! 
+
+PDF files represent information visually - via 
+layout, charts, graphs, etc. - and are more 
+than just text. Unlike traditional OCR and 
+most PDF-to-text approaches, which focus 
+on extracting the text, an agentic approach 
+lets us break a document down into components 
+and reason about them, resulting in more 
+accurate extraction of the underlying 
+meaning for RAG and other applications. 
+recently 
+
+"""
+and ideate on this topic and prepare the structure 
+of medium article which have all the possibility to become 
+viral article to be read on platform.
+
+Use your oen knowledge to create structre which is professional and 
+having all the fine detail on the topic
+possible until the date.
+Also if required you must search the internet and use the information so thatarticle must looklike 
+human written with very latest and upto date knowledge
