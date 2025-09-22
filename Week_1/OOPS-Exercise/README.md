@@ -2,7 +2,7 @@
 
 ## How to run tests
 ```bash
-python -m unittest discover -s tests -p "test_*.py" -v
+python -m unittest discover -s bank_00p\tests -t . -p "test_*.py" -v
 ```
 Python 3.10+ required. No third-party packages needed.
 
