@@ -29,7 +29,7 @@ python producer/main.py --topic demo --count 5
 
 4) Run consumer (polls for messages)
 ```bash
-python consumer/main.py --topic demo --consumer-id alice
+python consumer/main.py --topic demo --consumer-id abinash
 ```
 
 ---
@@ -196,7 +196,7 @@ Repeat:
 ## 8) How offsets work (by example)
 
 Suppose topic `demo` has messages: indices `[0, 1, 2]`.
-- New consumer `alice` starts with `offset = 0`.
+- New consumer `abinash` starts with `offset = 0`.
 - First `/consume` → returns message at index 0, then sets `offset = 1`.
 - Next `/consume` → returns index 1, then `offset = 2`.
 - If there is no message at index 2 yet, broker returns `204`.
@@ -227,7 +227,7 @@ python producer/main.py --topic demo --count 5
 
 3. Consume them:
 ```bash
-python consumer/main.py --topic demo --consumer-id alice
+python consumer/main.py --topic demo --consumer-id abinash
 ```
 
 4. View broker state:
@@ -283,11 +283,11 @@ A: Yes—`/topics/register` creates them on demand, and the broker keeps separat
 
 ## 15) Next steps
 
-- Try two consumers (`alice` and `bob`) on the same topic and observe offsets.
+- Try two consumers (`abinash` and `rahul`) on the same topic and observe offsets.
 - Add a `key` to some messages and modify the consumer to filter by key (client‑side).
 - Implement long‑polling for `/consume` (great small exercise!).
 
 ---
 
 ### License
-MIT (for this example project).
+Classroom Exercise in FIL (for this example project).
